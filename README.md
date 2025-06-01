@@ -1,1 +1,0 @@
-# mangacollec_manager
